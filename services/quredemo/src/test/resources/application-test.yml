@@ -1,0 +1,2 @@
+spring.profiles.include: common
+spring.test.mockmvc.print: none

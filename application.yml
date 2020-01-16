@@ -1,0 +1,7 @@
+incepto.qure:
+  baseUrl: "https://apieu.qure.ai:443/v2/cxr/"
+  authorization: "Token ..."
+  inputPath: "C:\\path\\to\\dicom\\inputFile.dcm"
+  outputPath: "C:\\path\\to\\dicom\\outputFile.dcm"
+  instanceUid: "SopInstanceUid"
+  fixApplied: false
